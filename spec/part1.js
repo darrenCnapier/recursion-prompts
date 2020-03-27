@@ -120,7 +120,7 @@
 
 
 
-    describe('3. Sum Integers in Array', function() {
+    xdescribe('3. Sum Integers in Array', function() {
       var originalArraySum;
 
       before(function() {
